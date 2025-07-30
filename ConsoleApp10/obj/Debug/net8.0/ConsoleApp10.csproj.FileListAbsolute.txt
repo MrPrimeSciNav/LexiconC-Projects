@@ -12,3 +12,4 @@
 /home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp10/obj/Debug/net8.0/ConsoleApp10.pdb
 /home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp10/obj/Debug/net8.0/ConsoleApp10.genruntimeconfig.cache
 /home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp10/obj/Debug/net8.0/ref/ConsoleApp10.dll
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp10/obj/Debug/net8.0/ConsoleApp10.sourcelink.json

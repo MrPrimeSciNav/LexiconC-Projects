@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp2/ConsoleApp2.csproj",
+      "projectUniqueName": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp2/ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp2/ConsoleApp2.csproj",
+      "projectPath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp2/ConsoleApp2.csproj",
       "packagesPath": "/home/david/.nuget/packages/",
-      "outputPath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp2/obj/",
+      "outputPath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/david/.nuget/NuGet/NuGet.Config"

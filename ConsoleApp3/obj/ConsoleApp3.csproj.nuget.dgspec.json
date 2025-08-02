@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp3/ConsoleApp3.csproj": {}
+    "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp3/ConsoleApp3.csproj": {}
   },
   "projects": {
-    "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp3/ConsoleApp3.csproj": {
+    "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp3/ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp3/ConsoleApp3.csproj",
+        "projectUniqueName": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp3/ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp3/ConsoleApp3.csproj",
+        "projectPath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp3/ConsoleApp3.csproj",
         "packagesPath": "/home/david/.nuget/packages/",
-        "outputPath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp3/obj/",
+        "outputPath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/david/.nuget/NuGet/NuGet.Config"

@@ -36,20 +36,20 @@
                 salaryTax1 = (double)((doubleSalary - taxLevel1) * 0.05);
                 salaryTax2 = (double)((doubleSalary - taxLevel2) * 0.2);
                 salaryTax3 = (double)(doubleSalary * 0.31);
-                neatSalary = salaryTax1 + salaryTax2 + salaryTax3;
+                neatSalary = doubleSalary - (salaryTax1 + salaryTax2 + salaryTax3);
 
             }
             if (doubleSalary > taxLevel2)
             {
                 salaryTax2 = (double)((doubleSalary - taxLevel2) * 0.2);
                 salaryTax3 = (double)(doubleSalary * 0.31);
-                neatSalary = (double)(salaryTax2 + salaryTax3);
+                neatSalary = doubleSalary - (salaryTax2 + salaryTax3);
                 return neatSalary;
 
             }
             else
             {
-                neatSalary = (double)doubleSalary * 0.31;
+                neatSalary = doubleSalary * (1 - 0.31);
 
             }
             return neatSalary;

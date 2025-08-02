@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V9s7oq9dwJv/vlmJ1XaholJa+ZBtWKwgV26KIvseuDms5rcISsSRpqKs7eNdoiqv2nfCvWc4C7rIec6M8XufZQ==",
+  "dgSpecHash": "wd4XuLmFu/TncxOxb3hyQDa7Mb1mF8RXV+JxSr6UeaBLdS8n+DSoQKQWVxzN7Nryu0ffr/9ewMba58fWG9mO0w==",
   "success": true,
-  "projectFilePath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

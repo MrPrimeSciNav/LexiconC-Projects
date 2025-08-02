@@ -10,7 +10,7 @@ namespace _2_TestaKonstanter
         static void Main(string[] args)
         {
             // Definiera en konstanter
-            const int Fryspunkt = 32;
+            const int Fryspunkt = 0;
             const int Kokpunkt = 100;
 
             Console.WriteLine("Fryspunkt vatten: {0}, Kokpunkt vatten: {1}", Fryspunkt, Kokpunkt);

@@ -19,21 +19,21 @@
                 // Reads the distance to the star in lightyears
                 Console.WriteLine("Ange avstånd till stjärnan i ljusår: ");
                 starDistance = Console.ReadLine();
-                int.TryParse(starDistance, out int starDistanceInt);
+                double.TryParse(starDistance, out double starDistanceDouble);
 
                 // Reads the travelspeed in km/h
                 Console.WriteLine("Ange reshastighet i km/h: ");
                 travelSpeed = Console.ReadLine();
-                int.TryParse(travelSpeed, out int travelSpeedInt);
+                double.TryParse(travelSpeed, out double travelSpeedDouble);
 
                 // Call of the method StarTravelTime to compute the traveltime to the given star
-                travelTime = StarTravelTime(starDistanceInt, travelSpeedInt);
+                travelTime = StarTravelTime(starDistanceDouble, travelSpeedDouble);
 
                 Console.WriteLine($"The traveltime is {Math.Round(travelTime)} years.");
                 Console.WriteLine();
             }
 
-            public static double StarTravelTime(int starDistanceInt, int travelSpeedInt)
+            public static double StarTravelTime(double starDistanceDouble, double travelSpeedDouble)
             {
 
                 // Declaring constants
@@ -41,10 +41,7 @@
 
                 double travelTime = 0;
 
-                double starDistanceDouble = (double)starDistanceInt;
-                double travelSpeedDouble = (double)travelSpeedInt;
-
-                if (travelSpeedInt > 0)
+                if (travelSpeedDouble > 0)
                 {
                     // Computing the traveltime in years
                     travelTime = starDistanceDouble * lightSpeed * 60 * 60 / travelSpeedDouble;

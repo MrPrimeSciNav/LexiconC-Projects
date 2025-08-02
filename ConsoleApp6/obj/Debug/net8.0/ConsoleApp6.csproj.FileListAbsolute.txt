@@ -2,3 +2,8 @@
 /home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.AssemblyInfoInputs.cache
 /home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.AssemblyInfo.cs
 /home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Charp/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.AssemblyInfoInputs.cache
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.AssemblyInfo.cs
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp6/obj/Debug/net8.0/ConsoleApp6.sourcelink.json

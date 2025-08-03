@@ -9,25 +9,29 @@
             // Let the user add the salary to base the neat salary and tax upon
             Console.WriteLine("Ange bruttolön i hela kronor: ");
             string stringSalary = Console.ReadLine();
-            int.TryParse(stringSalary, out int intSalary);
+            double.TryParse(stringSalary, out double doubleSalary);
 
 
 
             // Call the method SalaryCalc() to get the results from theh computations
-            double neatSalary = SalaryCalc(intSalary);
+            double neatSalary = SalaryCalc(doubleSalary);
 
+            // Calculatingthe tax
+            double tax = doubleSalary - neatSalary;
 
             // Print out the results to the user
-            Console.WriteLine($"Nettolönen för en bruttolön om {intSalary} är {neatSalary} kr.");
+            Console.WriteLine($"Nettolönen för en bruttolön om {doubleSalary} kr är {neatSalary} kr,\n" +
+                              $"och skatten är {tax} kr");
+
             Console.WriteLine();
         }
 
-        static double SalaryCalc(int intSalary)
+        static double SalaryCalc(double doubleSalary)
         {
             // declaring constants
             int taxLevel1 = 48000, taxLevel2 = 38000;
-            // Casting integer to double
-            double doubleSalary = (double)intSalary;
+
+            // Declaring variables            
             double salaryTax1, salaryTax2, salaryTax3, neatSalary;
 
             // Checking the salary and calculating the neat salary and tax

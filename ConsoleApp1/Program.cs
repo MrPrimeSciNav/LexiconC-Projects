@@ -13,7 +13,7 @@ namespace _2_TestaKonstanter
             const int Fryspunkt = 0;
             const int Kokpunkt = 100;
 
-            Console.WriteLine("Fryspunkt vatten: {0}, Kokpunkt vatten: {1}", Fryspunkt, Kokpunkt);
+            Console.WriteLine($"Fryspunkt vatten: {Fryspunkt} C, Kokpunkt vatten: {Kokpunkt} C");
 
 
             // Vänta på användarens inmatning innan programmet avslutas

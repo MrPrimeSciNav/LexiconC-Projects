@@ -11,12 +11,11 @@ namespace _6_WhileLoop
         {
             int i = 0;
 
-            //Repetera så länge (i) är mindre än 10
-            Console.WriteLine("i: ");
+            //Repetera så länge (i) är mindre än 10            
             while (i < 10)
             {
                 //Skriv värden på (i) utan att byta rad
-                Console.Write($"i: {i,3}");
+                Console.Write($"i: {i,1}");
                 i++;
 
             }

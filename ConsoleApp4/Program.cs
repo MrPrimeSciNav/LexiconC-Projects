@@ -28,7 +28,7 @@ namespace _4_Multiplikationstabell
                 for (int j = 1; j <= MaxVInt; j++)
                 {
                     //Skriv ut multiplikationstabellen
-                    Console.Write($"{j,4}", i * j);
+                    Console.Write($"{i * j,4}");
                 }
                 //Byt rad efter varje rad i tabellen
                 Console.WriteLine();

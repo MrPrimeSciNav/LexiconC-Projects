@@ -1,0 +1,15 @@
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/bin/Debug/net8.0/ConsoleApp28
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/bin/Debug/net8.0/ConsoleApp28.deps.json
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/bin/Debug/net8.0/ConsoleApp28.runtimeconfig.json
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/bin/Debug/net8.0/ConsoleApp28.dll
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/bin/Debug/net8.0/ConsoleApp28.pdb
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ConsoleApp28.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ConsoleApp28.AssemblyInfoInputs.cache
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ConsoleApp28.AssemblyInfo.cs
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ConsoleApp28.csproj.CoreCompileInputs.cache
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ConsoleApp28.sourcelink.json
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ConsoleApp28.dll
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/refint/ConsoleApp28.dll
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ConsoleApp28.pdb
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ConsoleApp28.genruntimeconfig.cache
+/home/david/snap/syncthing/common/Sync/Lenovo/lexicon/Advanced/C_Sharp/ConsoleApp28/obj/Debug/net8.0/ref/ConsoleApp28.dll

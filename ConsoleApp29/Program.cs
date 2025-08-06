@@ -29,7 +29,7 @@
             if (ssn.Length != 12 || !long.TryParse(ssn, out _))
                 return false;
 
-            string tenDigits = ssn.Substring(2, 10); // YYMMDDNNNC
+            string tenDigits = ssn.Substring(2, 10); // YYMMDDXXXX
 
             int sum = 0;
             for (int i = 0; i < tenDigits.Length - 1; i++)

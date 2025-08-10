@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<groceries>
+  <item>
+    <grocery>Lättmjölk (1,5 Liter)</grocery>
+    <amount>1500</amount>
+    <pricePerUnit>18.5</pricePerUnit>
+    <nutrition>
+      <kcal>38</kcal>
+      <fat>0.5</fat>
+      <carbs>4.7</carbs>
+      <protein>3.6</protein>
+    </nutrition>
+  </item>
+  <item>
+    <grocery>Havregryn (1,5 kg)</grocery>
+    <amount>1500</amount>
+    <pricePerUnit>22.5</pricePerUnit>
+    <nutrition>
+      <kcal>367</kcal>
+      <fat>6.8</fat>
+      <carbs>58</carbs>
+      <protein>13</protein>
+    </nutrition>
+  </item>
+  <item>
+    <grocery>Lättkvarg (Basic 900 g)</grocery>
+    <amount>900</amount>
+    <pricePerUnit>30</pricePerUnit>
+    <nutrition>
+      <kcal>60</kcal>
+      <fat>0.2</fat>
+      <carbs>3.4</carbs>
+      <protein>11</protein>
+    </nutrition>
+  </item>
+</groceries>

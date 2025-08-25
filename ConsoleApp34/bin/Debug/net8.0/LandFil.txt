@@ -1,0 +1,5 @@
+Kalle=Sverige
+Mustafa=Afganistan
+Bob=England
+KuntaKinte=Kenya
+Dorian=Polen
